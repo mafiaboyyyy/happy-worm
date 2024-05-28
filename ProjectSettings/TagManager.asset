@@ -9,6 +9,9 @@ TagManager:
   - Levels
   - Map
   - End
+  - Body
+  - Death
+  - Fall
   layers:
   - Default
   - TransparentFX
